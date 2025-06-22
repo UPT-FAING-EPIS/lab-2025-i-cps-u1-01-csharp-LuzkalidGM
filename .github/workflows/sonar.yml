@@ -5,7 +5,7 @@ env:
   SONAR_PROJECT: 'luzkalidgm_apibank'
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" , "master"]
   workflow_dispatch:
 
 jobs:
