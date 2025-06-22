@@ -1,5 +1,7 @@
 # SESION DE LABORATORIO N° 01: PRUEBAS ESTATICAS DE SEGURIDAD DE APLICACIONES CON SONARQUBE
 
+
+## NOMBRE: Gabriela Luzkalid Gutierrez Mamani
 ## OBJETIVOS
   * Comprender el funcionamiento de las pruebas estaticas de seguridad de còdigo de las aplicaciones que desarrollamos utilizando SonarQube.
 
