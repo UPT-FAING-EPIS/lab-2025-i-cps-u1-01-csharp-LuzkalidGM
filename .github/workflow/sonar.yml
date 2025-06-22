@@ -1,8 +1,8 @@
 name: Sonar Continuos Integration
 env:
   DOTNET_VERSION: '8.x'
-  SONAR_ORG: 'sebastianfuentes'
-  SONAR_PROJECT: 'apibank-sebastian'
+  SONAR_ORG: 'luzkalidgm'
+  SONAR_PROJECT: 'luzkalidgm_apibank'
 on:
   push:
     branches: [ "main" ]
